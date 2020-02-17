@@ -32,3 +32,6 @@ service cloud.firestore {
   }
 }
 ```
+
+```cd functions```
+```firebase deploy --only functions``` while project is running
