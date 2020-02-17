@@ -9,6 +9,10 @@ Two Command to run the project :
 
 Add Your Own FireBase Configurations In : ``````/src/config/fb.js``````
 
+```cd functions```
+```npm install```
+
+
 
 Add Rules in Firebase :
 ```
